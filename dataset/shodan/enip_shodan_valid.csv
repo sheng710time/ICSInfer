@@ -1,0 +1,61 @@
+id,ip,port,vendor,product_code,product_name,model_name,vendor_label,type_label,model_label,valid
+1,138.248.87.146,44818,Rockwell Automation/Allen-Bradley,176,1747-L551/C C/11 - DC,,Allen-Bradley,PLC,Allen-Bradley::176::1747-L551/C C/11 - DC::,1
+2,133.112.98.189,44818,Rockwell Automation/Allen-Bradley,176,1747-L551/C C/11 - DC,,Allen-Bradley,PLC,Allen-Bradley::176::1747-L551/C C/11 - DC::,1
+3,138.248.87.142,44818,Rockwell Automation/Allen-Bradley,58,1756-ENBT/A,,Allen-Bradley,Communication Module,Allen-Bradley::58::1756-ENBT/A::,1
+4,42.17.159.15,44818,Rockwell Automation/Allen-Bradley,185,1763-L16A,,Allen-Bradley,PLC,Allen-Bradley::185::1763-L16A::,1
+5,40.68.14.244,44818,Rockwell Automation/Allen-Bradley,185,1763-L16A,,Allen-Bradley,PLC,Allen-Bradley::185::1763-L16A::,1
+6,143.14.178.149,44818,Rockwell Automation/Allen-Bradley,185,1763-L16A,,Allen-Bradley,PLC,Allen-Bradley::185::1763-L16A::,1
+7,42.89.205.210,44818,Rockwell Automation/Allen-Bradley,185,1763-L16B,,Allen-Bradley,PLC,Allen-Bradley::185::1763-L16B::,1
+8,224.251.95.42,44818,Rockwell Automation/Allen-Bradley,185,1763-L16B,,Allen-Bradley,PLC,Allen-Bradley::185::1763-L16B::,1
+9,130.51.23.240,44818,Rockwell Automation/Allen-Bradley,185,1763-L16B,,Allen-Bradley,PLC,Allen-Bradley::185::1763-L16B::,1
+10,161.126.182.220,44818,Rockwell Automation/Allen-Bradley,90,1766-L32A,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32A::,1
+11,161.126.183.31,44818,Rockwell Automation/Allen-Bradley,90,1766-L32A,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32A::,1
+12,40.92.197.136,44818,Rockwell Automation/Allen-Bradley,90,1766-L32A,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32A::,1
+13,40.92.196.6,44818,Rockwell Automation/Allen-Bradley,90,1766-L32A,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32A::,1
+14,40.92.196.193,44818,Rockwell Automation/Allen-Bradley,90,1766-L32A,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32A::,1
+15,40.77.178.213,44818,Rockwell Automation/Allen-Bradley,90,1766-L32A,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32A::,1
+16,40.84.186.118,44818,Rockwell Automation/Allen-Bradley,90,1766-L32A,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32A::,1
+17,40.84.186.99,44818,Rockwell Automation/Allen-Bradley,90,1766-L32A,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32A::,1
+18,189.146.132.214,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+19,231.159.9.100,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+20,40.82.233.119,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+21,40.83.66.214,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+22,40.80.52.137,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+23,40.66.82.25,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+24,40.66.82.6,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+25,40.66.82.80,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+26,40.69.102.56,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+27,40.69.102.50,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+28,37.227.131.70,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+29,37.246.69.205,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+30,167.89.253.221,44818,Rockwell Automation/Allen-Bradley,90,1766-L32B,,Allen-Bradley,PLC,Allen-Bradley::90::1766-L32B::,1
+31,40.83.35.243,44818,Rockwell Automation/Allen-Bradley,153,1769-L16ER/B LOGIX5316ER,,Allen-Bradley,PLC,Allen-Bradley::153::1769-L16ER/B LOGIX5316ER::,1
+32,193.47.237.19,44818,Rockwell Automation/Allen-Bradley,153,1769-L16ER/B LOGIX5316ER,,Allen-Bradley,PLC,Allen-Bradley::153::1769-L16ER/B LOGIX5316ER::,1
+33,40.83.35.190,44818,Rockwell Automation/Allen-Bradley,152,1769-L19ER-BB1B/A LOGIX5319ER,,Allen-Bradley,PLC,Allen-Bradley::152::1769-L19ER-BB1B/A LOGIX5319ER::,1
+34,40.12.65.163,44818,Rockwell Automation/Allen-Bradley,152,1769-L19ER-BB1B/A LOGIX5319ER,,Allen-Bradley,PLC,Allen-Bradley::152::1769-L19ER-BB1B/A LOGIX5319ER::,1
+35,99.24.62.233,44818,Rockwell Automation/Allen-Bradley,152,1769-L19ER-BB1B/A LOGIX5319ER,,Allen-Bradley,PLC,Allen-Bradley::152::1769-L19ER-BB1B/A LOGIX5319ER::,1
+36,40.84.184.232,44818,Rockwell Automation/Allen-Bradley,150,1769-L24ER-QBFC1B/A LOGIX5324ER,,Allen-Bradley,PLC,Allen-Bradley::150::1769-L24ER-QBFC1B/A LOGIX5324ER::,1
+37,175.162.212.172,44818,Rockwell Automation/Allen-Bradley,150,1769-L24ER-QBFC1B/A LOGIX5324ER,,Allen-Bradley,PLC,Allen-Bradley::150::1769-L24ER-QBFC1B/A LOGIX5324ER::,1
+38,40.82.23.120,44818,Rockwell Automation/Allen-Bradley,158,1769-L32E Ethernet Port,,Allen-Bradley,Communication Module,Allen-Bradley::158::1769-L32E Ethernet Port::,1
+39,224.251.95.46,44818,Rockwell Automation/Allen-Bradley,158,1769-L32E Ethernet Port,,Allen-Bradley,Communication Module,Allen-Bradley::158::1769-L32E Ethernet Port::,1
+40,224.251.95.41,44818,Rockwell Automation/Allen-Bradley,158,1769-L32E Ethernet Port,,Allen-Bradley,Communication Module,Allen-Bradley::158::1769-L32E Ethernet Port::,1
+41,224.251.95.49,44818,Rockwell Automation/Allen-Bradley,158,1769-L32E Ethernet Port,,Allen-Bradley,Communication Module,Allen-Bradley::158::1769-L32E Ethernet Port::,1
+42,224.251.95.48,44818,Rockwell Automation/Allen-Bradley,158,1769-L32E Ethernet Port,,Allen-Bradley,Communication Module,Allen-Bradley::158::1769-L32E Ethernet Port::,1
+43,224.251.95.51,44818,Rockwell Automation/Allen-Bradley,158,1769-L32E Ethernet Port,,Allen-Bradley,Communication Module,Allen-Bradley::158::1769-L32E Ethernet Port::,1
+44,40.92.196.200,44818,Rockwell Automation/Allen-Bradley,107,1769-L33ER/A LOGIX5333ER,,Allen-Bradley,PLC,Allen-Bradley::107::1769-L33ER/A LOGIX5333ER::,1
+45,121.220.59.61,44818,Rockwell Automation/Allen-Bradley,107,1769-L33ER/A LOGIX5333ER,,Allen-Bradley,PLC,Allen-Bradley::107::1769-L33ER/A LOGIX5333ER::,1
+46,121.220.59.45,44818,Rockwell Automation/Allen-Bradley,107,1769-L33ER/A LOGIX5333ER,,Allen-Bradley,PLC,Allen-Bradley::107::1769-L33ER/A LOGIX5333ER::,1
+47,207.4.61.189,44818,Rockwell Automation/Allen-Bradley,107,1769-L33ER/A LOGIX5333ER,,Allen-Bradley,PLC,Allen-Bradley::107::1769-L33ER/A LOGIX5333ER::,1
+48,243.156.154.221,44818,Rockwell Automation/Allen-Bradley,120,1769-L35E Ethernet Port,,Allen-Bradley,Communication Module,Allen-Bradley::120::1769-L35E Ethernet Port::,1
+49,139.9.220.43,44818,Rockwell Automation/Allen-Bradley,180,2080-LC20-20QWB,,Allen-Bradley,PLC,Allen-Bradley::180::2080-LC20-20QWB::,1
+50,193.40.255.16,44818,Rockwell Automation/Allen-Bradley,141,2080-LC50-24QWB,,Allen-Bradley,PLC,Allen-Bradley::141::2080-LC50-24QWB::,1
+51,110.3.152.227,44818,Omron Corporation,11,CJ1W-EIP21,,Omron,Communication Module,Omron::11::CJ1W-EIP21::,1
+52,182.156.54.37,44818,Omron Corporation,13,CJ2B-EIP21,,Omron,Communication Module,Omron::13::CJ2B-EIP21::,1
+53,231.153.146.248,44818,Omron Corporation,13,CJ2B-EIP21,,Omron,Communication Module,Omron::13::CJ2B-EIP21::,1
+54,195.0.43.202,44818,Omron Corporation,13,CJ2B-EIP21,,Omron,Communication Module,Omron::13::CJ2B-EIP21::,1
+55,181.54.172.120,44818,Omron Corporation,23,CJ2M-EIP21,,Omron,Communication Module,Omron::23::CJ2M-EIP21::,1
+56,12.65.233.11,44818,Omron Corporation,23,CJ2M-EIP21,,Omron,Communication Module,Omron::23::CJ2M-EIP21::,1
+57,252.67.225.24,44818,Omron Corporation,23,CJ2M-EIP21,,Omron,Communication Module,Omron::23::CJ2M-EIP21::,1
+58,111.25.143.164,44818,Omron Corporation,23,CJ2M-EIP21,,Omron,Communication Module,Omron::23::CJ2M-EIP21::,1
+59,15.238.101.1,44818,Omron Corporation,1658,NA5-Series,,Omron,HMI,Omron::1658::NA5-Series::,1
+60,15.238.101.3,44818,Omron Corporation,1664,NJ101,,Omron,PLC,Omron::1664::NJ101::,1
